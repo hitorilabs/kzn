@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# Added by cargo
+
+/target
+
+# macos
+.DS_Store
